@@ -1,0 +1,3 @@
+2023-03-27 11:37:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PLAYER" not found; SQL statement:
+select player0_.playerid as playerid1_0_, player0_.jerseynumber as jerseynu2_0_, player0_.playername as playerna3_0_, player0_.role as role4_0_ from player player0_ [42102-214]
